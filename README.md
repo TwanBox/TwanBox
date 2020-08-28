@@ -28,11 +28,3 @@
 
 ---
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="TwanBox's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TwanBox&show_icons=true&hide_border=true" />
-
-</details>
-
