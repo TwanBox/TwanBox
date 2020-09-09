@@ -1,7 +1,7 @@
 ![twan gif](https://user-images.githubusercontent.com/60676729/91630440-c6256e80-e9d1-11ea-92cd-1f92933fc43f.gif)
 ## Full-stack Javascript developer
 
-- :new: Recent Projects :  [`MyPlanAway`](https://planaway.netlify.app/)  [`WebsApp`](https://sapient-depot-285005.web.app/)  [`Bol.com`](https://ecommerce-project-twan.web.app//) [`NodeStories`](https://node-stories.herokuapp.com///)
+- :new: Recent Projects :  [`MyPlanAway`](https://planaway.netlify.app/)  [`WebsApp`](https://sapient-depot-285005.web.app/)  [`Bol.com`](https://ecommerce-project-twan.web.app//) [`NodeStories`](https://node-stories.herokuapp.com///) [`Netflix`](https://netflix-twan.web.app////)
 - :books: I’m learning new things every day!
 
 - :guitar: Fun fact: I love to play guitar
